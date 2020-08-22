@@ -17,7 +17,6 @@ class PC{
     void setmascara(string);
     string gethostname();
     void sethostname(string);
-    void Show(int);
     void ping(int);
     ~PC();
 };
